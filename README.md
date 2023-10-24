@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene
 - 👀 I’m interested in React and front-end developing
-- 🌱 I’m currently learning and working with React and Gatsby
+- 🌱 I’m currently learning and working with React, Next, Gatsby
 
 ![My codewars badge!](https://www.codewars.com/users/eugenewolf507/badges/small)
 
